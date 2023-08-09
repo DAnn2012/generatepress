@@ -101,6 +101,8 @@ MIT License: https://github.com/JedWatson/react-select/blob/master/LICENSE
 
 = 3.3.1 =
 
+* Tweak: Update script dependencies to prevent Customizer issues in WP 6.3
+
 = 3.3.0 =
 
 * Feature: Add navigation search modal
